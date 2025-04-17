@@ -1,15 +1,14 @@
-# Code Practice Platform
+# Code Practice Platform 🚀
 
-A Next.js-based platform for practicing coding problems with voice assistance and AI-powered hints.
+A modern web application for practicing coding problems with AI-powered assistance and voice commands. Built with Next.js, TypeScript, and Tailwind CSS, this platform provides an interactive coding environment with real-time feedback and intelligent hints.
 
-## 🚀 Features
+## ✨ Key Features
 
-- Interactive coding environment with Monaco Editor
-- Voice command support for hands-free coding
-- AI-powered hints using Gemini API
-- Real-time code execution
-- Problem difficulty levels (Easy, Medium, Hard)
-- Test case validation
+- **Interactive Coding Environment**: Write and test code in a modern IDE-like interface
+- **Voice Commands**: Control the platform hands-free using voice recognition
+- **AI-Powered Hints**: Get intelligent suggestions using Google's Gemini AI
+- **Real-time Execution**: Test your code against multiple test cases instantly
+- **Problem Library**: Access a curated collection of coding problems with varying difficulty levels
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +35,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/code-practice-platform.git
+   git clone https://github.com/Aishwaryak1234/code-practice-platform.git
    cd code-practice-platform
    ```
 
